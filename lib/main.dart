@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.teal[700],
         appBar: AppBar(
           title: Text('Business Card'),
-          backgroundColor: Colors.green[900],
+          backgroundColor: Colors.teal[900],
         ),
         body: Container(
           child: Column(
